@@ -1,0 +1,6 @@
+
+spring:
+  application:
+    name: efighter
+  messages:
+    basename: "Hello from prod profile"
